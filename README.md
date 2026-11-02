@@ -41,9 +41,3 @@ My journey into programming began at university, where I learned Java. I've been
 <p align="left">
   <img src="https://skillicons.dev/icons?i=ps,ai,xd,figma&perline=4" alt="Photoshop, Illustrator, Adobe XD, Figma" />
 </p>
-
----
-
-<p align="center">
-  <i>Building things, solving problems, and learning something new every day.</i>
-</p>
